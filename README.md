@@ -1,4 +1,4 @@
-##AI Agency kit
+## AI Agency kit
 
 🔧 Objetivo do Projeto:
 Construir um bot modular em Python para WhatsApp, usando uma arquitetura de plugins simples e expansível. O bot será rodado inicialmente no Replit e deve permitir o envio e resposta de mensagens de forma customizada.
